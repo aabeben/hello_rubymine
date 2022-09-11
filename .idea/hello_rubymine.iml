@@ -11,5 +11,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Remote-rbenv: ruby-3.1.2-p20 (2)" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.22, Remote-rbenv: ruby-3.1.2-p20 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.16.3, Remote-rbenv: ruby-3.1.2-p20 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, Remote-rbenv: ruby-3.1.2-p20 (2)) [gem]" level="application" />
   </component>
 </module>
